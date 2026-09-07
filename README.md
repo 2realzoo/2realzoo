@@ -24,18 +24,41 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p>
+### 🥠 Fortune
+
+<p align="center">
+  <img alt="Random fortune" src="./fortune.svg">
+</p>
+
+### ⏰ Commit Time
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2realzoo&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2realzoo&theme=github">
-    <img width="49%" alt="2realzoo's GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2realzoo&theme=github">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2realzoo&theme=github_dark&utcOffset=9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2realzoo&theme=github&utcOffset=9">
+    <img alt="2realzoo's commit time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2realzoo&theme=github&utcOffset=9">
   </picture>
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2realzoo&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2realzoo&theme=github">
-    <img width="49%" alt="2realzoo's top languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2realzoo&theme=github">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=2realzoo&theme=github-dark-blue&locale=ko&timezone=Asia%2FSeoul">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=2realzoo&theme=default&locale=ko&timezone=Asia%2FSeoul">
+    <img alt="2realzoo's contribution streak" src="https://streak-stats.demolab.com?user=2realzoo&theme=default&locale=ko&timezone=Asia%2FSeoul">
+  </picture>
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2realzoo/2realzoo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2realzoo/2realzoo/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/2realzoo/2realzoo/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
